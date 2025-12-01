@@ -3,56 +3,27 @@ INTRODUCTION
 Over the past few decades, online privacy has had a clear transition from a background issue to a prominent issue in digital life. This has been fueuled by the expansion of the internet, social media, artificial intelligence, and data-driven business models. Historically anonymous online spaces have developed into tightly tracked environments where users constantly share personal details while governments and corporations collect, analyse, and monetise their data. This project examines online privacy through four key ideas: historical development, societal attitudes, business practices, and ethics.
 
 
-HISTORICAL DEVELOPMENT [Maxim]
+Max (Historical Development) 
 
-# Historical Development of Online Privacy  
-**Author:** Max
+Timeline of Key Events 
 
-## Timeline of Key Events
+The development of online privacy has grown at the same time as the internet itself. In the early days, most users did not worry much about who could access their information since it was a new thing for them, and it didn’t concern anyone that this could change in the future. Each stage of the internet has different risks, and businesses and governments think differently about how personal information should be protected. 
 
-The development of online privacy has grown alongside the rise of the internet. In the early days, most users did not worry much about who could access their information because the internet was new and not widely understood. Each stage of the internet brought new risks, leading businesses and governments to think differently about how personal information should be protected.
+(1990-2000) 
 
----
+In the early days of the internet around 1993, online spaces operated with very limited legal regulation (Ring, 023). Most users had access to the internet through web browsers, which allowed people to use it anonymously (Tadlock, 2019). Privacy issues at this stage are mostly on personal safety and controlling what information users share with others. Commercial tracking was extremely limited, leading to no big corporations taking advantage of the case. Websites rarely collected personal data beyond basic registration details such as email or general information, and cookies were first introduced in 1994 as a simple mechanism to store user preferences which was not as an important factor (Internet Law Program, 2011). Few people understood their long term implications. Governments also lacked clear digital structure, leaving companies free to experiment with early data collection which in some cases helps benefit the development of the internet. A small number of early privacy concerns began raising the development between users and companies as the internet became more commercial and more people started using websites. These early warnings would become important in later years since no one was really familiar with their privacy being taken. Altough privacy was not seen as a major concern, researchers and early internet users noticed the growing balance from companies that collected data and users unknowingly providing it. Online services in the late 1990s and 2000s would lack early regulations which would affect users in a long term run. 
 
-## 1990–2000
+(2000-2010) 
 
-In the early days of the internet around 1993, online spaces operated with very limited legal regulation (Ring, 2023). Most users accessed the internet through web browsers which allowed anonymity (Tadlock, 2019). Privacy concerns were focused on personal safety and controlling what users directly shared. Commercial tracking was extremely limited, and websites normally only stored basic registration details such as email addresses.
+The early 2000s internet, online shopping and advertising we’re much more than in the past. Companies realized that user data helps with personalization and targeted marketing. Data collection became more automated. Many websites used third-party trackers that helped browse without user awareness. At the same time, social networks such as myspace and Facebook introduced account registration using personal details and suggested people to present their real identity online and carry on with a more public life rather than private since the apps we’re created for users to access more information about each other. This transition normalized the idea that sharing personal information online was acceptable, even expected, as long as it improved connection and social behavior. Users started posting details such as location and interests without understanding how this information could be stored and analyzed by big corporations (Tadlock, 2019). What started as casual online interaction slowly became an important value for bigger corporations (Privacy International, 2021). Platforms realized that the more users shared, the more data could be extracted to improve advertising. 
 
-Cookies were introduced in 1994 as a simple mechanism to store user preferences (Internet Law Program, 2011), but few people understood their long-term implications. Governments also lacked digital structures, allowing companies to experiment with early data collection. Although privacy was not considered a major concern, early researchers noticed the growing imbalance between companies collecting data and users unknowingly providing it.
+(2010-2020) 
 
----
+By the 2010s, user data had become a commercial asset. Edward Snowden’s 2013 NSA surveillance revelations exposed how governments were engaging in mass data collection (Greenwald, 2013). In response, strong data protection laws were introduced forcing organizations to be open about how they store and use data. This is also when people started reading privacy policies. However, most users only began reading them because they were forced to click through cookie banners just to access the websites, this caused people to not actually read the information but just press the accept button to continue browsing quicker (Kitowska, 2022). At the same time several major data corporations increased public concern. By the end of the decade, online privacy had shifted from technical conversation to legal one. 
 
-## 2000–2010
+(2020-2025) 
 
-The early 2000s saw major growth in online shopping and advertising. Companies realised that user data could be used for personalisation and targeted marketing, and data collection became more automated. Websites began using third-party trackers without user awareness.
-
-Social networks such as MySpace (2003) and Facebook (2004) encouraged account registration using real personal information, shifting online behaviour from anonymous to public. Sharing personal information became normal, and what began as casual interaction slowly turned into valuable commercial data for companies (Privacy International, 2021).
-
----
-
-## 2010–2020
-
-By the 2010s, user data had become a commercial asset. In 2013, Edward Snowden revealed that governments were engaging in mass data collection and surveillance (Greenwald, 2013). This increased public concern and led to stronger data protection laws such as GDPR in 2018, requiring companies to be transparent about how they collect and use data.
-
-Cookie banners became common, but most users simply clicked “accept” to continue browsing faster (Kitowska, 2022). By the end of the decade, online privacy was no longer just a technical topic but a legal and ethical issue.
-
----
-
-## 2020–2025
-
-From 2020 onwards, online privacy entered a new phase with the rise of artificial intelligence. AI systems do not just collect data; they analyse and learn from it. This led companies to gather more information than ever, including location and facial recognition. Face ID became widely used for authentication—convenient, but risky if leaked.
-
-Social media platforms like TikTok encouraged public sharing through stories and livestreams, sometimes prioritising engagement over privacy. Even with awareness of the risks, many users continued sharing for visibility. The future of online privacy now depends on how responsibly organisations manage and protect personal data.
-
----
-
-## References
-Ring (2023)
-Tadlock (2019)
-Internet Law Program (2011)
-Privacy International (2021)
-Greenwald (2013)
-Kitowska (2022)
+From 2020, online privacy has been in a new phase since AI started taking a major step in this field. Modern systems don’t just collect data they learn from it. AI models need massive datasets to function which made companies gather more information than ever before, such as location and facial recognition. Face ID became very used for authentication. While this improved convenience, it also led to more concerns because if this information can be leaked, it could permanently affect users. This made more debates around security and personal identity. Social Media platforms also influenced privacy since apps like TikTok we’re encouraging for people to use stories and livestreams shifting from privacy to a more public persona, even though they we’re aware of the risks they still gave in for attention and engagement. Looking forward to the future, online privacy depends on companies and businesses that are responsible for your data and keeping it protected.
 
 
 TWO VIEWPOINTS: BUSINESS [Leah]
